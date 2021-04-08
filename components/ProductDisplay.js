@@ -42,6 +42,7 @@ app.component('product-display', {
       </div>
     </div>
   </div>`,
+  
   data() {
     return {
         product: 'Socks',
